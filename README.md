@@ -12,4 +12,8 @@
 
 👾𝙎𝙤𝙘𝙞𝙖𝙡 𝙢𝙚𝙙𝙞𝙖 𝙡𝙞𝙣𝙠𝙨:
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yashraj_dudhe) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yashraj_dudhe/) [![Telegram](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yashraj_dudhe)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yashraj_dudhe) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yashraj_dudhe/) [![Telegram](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yashraj_dudhe)<br>
+
+
+
+<i>❗GROUP FOR PROGRAMMERS<i>   >>  [![Telegram](https://img.shields.io/badge/-GROUP-cyan)](https://t.me/basic_coders)
