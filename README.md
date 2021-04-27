@@ -9,6 +9,8 @@
 ➰𝐖𝐡𝐚𝐭 𝐝𝐨 𝐢 𝐤𝐧𝐨𝐰?<br>
   ✔Basics of python<br>
   ✔Basics of HTML/JS<h3>
+  
+  ![Sparkline](https://stars.medv.io/TeamUltroid/Ultroid.svg)
 
 👾𝙎𝙤𝙘𝙞𝙖𝙡 𝙢𝙚𝙙𝙞𝙖 𝙡𝙞𝙣𝙠𝙨:
 
