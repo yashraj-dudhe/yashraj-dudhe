@@ -10,7 +10,7 @@
   ✔Basics of python<br>
   ✔Basics of HTML/JS<h3>
   
-  ![Sparkline](https://stars.medv.io/TeamUltroid/Ultroid.svg)
+  [![Sparkline](https://stars.medv.io/TeamUltroid/Ultroid.svg)](https://t.me/basic_coders)
 
 👾𝙎𝙤𝙘𝙞𝙖𝙡 𝙢𝙚𝙙𝙞𝙖 𝙡𝙞𝙣𝙠𝙨:
 
