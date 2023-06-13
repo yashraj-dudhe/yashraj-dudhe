@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Header](https://github.com/yashraj-dudhe/yashraj-dudhe/blob/main/banner.jpg?raw=true"Header")](https://some-url.dev/)
+[![Header](https://github.com/yashraj-dudhe/yashraj-dudhe/blob/main/YASHRAJjpg.jpg?raw=true"Header")](https://some-url.dev/)
 
 <h1 align = "center"><i>>>I am Yashraj Dudhe❗</i> </h1>
 <h3>➰𝗝𝘂𝘀𝘁 𝗮 𝗻𝗲𝘄𝗯𝗶𝗲!<br>
