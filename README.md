@@ -4,19 +4,15 @@
 
 <h1 align = "center">I am Yashraj Dudhe </h1>
 <h3>I am 20 y.o Tech Enthusiast 
-Currently into Data Science<br>
-
+Currently into Data Science 🐍<br>
+<br>
 Hoobies:<br> 
-<br>  
-•Playing Multiplayer Games<br>
-  
-•Anime <br>
-  
+
+•Playing Multiplayer Games<br>  •Anime <br>
 •Reading Novels<br>
-  
-•Listening to Music<br>
+•Listening to Music
 ------------------------------------------------------------------
-  <br>A chuski of Garam chai to fix the day☕<br>
+ <br>A chuski of Garam chai to fix the day☕<br>
 
 
 
